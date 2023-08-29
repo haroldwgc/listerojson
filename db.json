@@ -1,3 +1,7 @@
     {
-      "activate": true
+      "estados": [
+          {
+              "activate":false
+          }
+      ]
     }
