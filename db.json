@@ -1,8 +1,10 @@
-[
-  "get":[
+{
+  "posts": [
     {
-      "activate":true
+      "activate": true,
     }
-  ]
-
-]
+  ],
+  "profile": {
+    "name": "haroldwgc"
+  }
+}
