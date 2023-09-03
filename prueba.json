@@ -1,0 +1,17 @@
+{
+  "_id": null,
+  "animal": {
+    "_id": "1",
+    "nombre": "abeja",
+    "sonido": "https://github.com/haroldwgc/listerojson/raw/main/abeja.wav",
+    "imagen": "https://github.com/haroldwgc/listerojson/blob/main/abeja.jpg?raw=true",
+    "complejidad": 1
+  },
+  "nombreAnimalBtn1": "oso",
+  "nombreAnimalBtn2": "pollo",
+  "nombreAnimalBtn3": "abeja",
+  "nombreAnimalBtn4": "gallina",
+  "nombreAnimalBtn5": "raton",
+  "nombreAnimalBtn6": "oca",
+  "complejidad": 1
+}
